@@ -1,6 +1,6 @@
-# 👋 Welcome to My ML/AI Extra Learning Repository
+# 👋 Welcome to My ML/AI Learning Repository
 
-Hi there! 🌟 This repository is my personal **learning playground** where I document everything I'm discovering about Machine Learning and AI. Think of it as my digital notebook 📓 where I experiment with curious topics, dig deeper into interesting concepts, and try to answer the "why" behind everything.
+Hi there! 🌟 This repository is my personal **learning playground** where I document additional insights about Machine Learning and AI. Think of it as my digital notebook 📓 where I experiment with curious topics, dig deeper into interesting concepts, and try to answer the "why" behind everything.
 
 > 💡 **Why this exists:** I want to learn more and understand the levels of ML/AI whilst answering my curious questions about some things related to them
 
