@@ -1,20 +1,36 @@
-# Welcome 🙂
-This is a repository that will serve as a storage/proof of my extended studies in Machine Learning/AI. I will be experimenting with additional information, curious topics, and reasons why this is that. Feel free to see the [schedule](./Schedule) folder for the topics.
+# 👋 Welcome to My ML/AI Extra Learning Repository
+
+Hi there! 🌟 This repository is my personal **learning playground** where I document everything I'm discovering about Machine Learning and AI. Think of it as my digital notebook 📓 where I experiment with curious topics, dig deeper into interesting concepts, and try to answer the "why" behind everything.
+
+> 💡 **Why this exists:** I want to learn more and understand the levels of ML/AI whilst answering my curious questions about some things related to them
 
 ---
 
-# Models I Know Of 🤓
-| Model |
-|-------|
-| Linear Regression (OLS) |
-| Linear Probability Model |
-| Logistics Regression |
-| Generalized Linear Model (Binomial) |
-| Kth-Nearest Neighbour |
-| Decision Trees |
-| Bagging |
-| Random Forest |
+## 🧠 Models I've Explored So Far
+
+Here are the ML models I've learned about so far.
+
+| 🤖 Model | 📝 Notes | ⌨️ Type |
+|----------|----------|------------------|
+| **Linear Regression (OLS)** | Predicts continuous values using ordinary least squares (The basics) | Linear/Parametric |
+| **Linear Probability Model** | Simple binary outcomes but has limitations | Linear/Parametric (Binary) |
+| **Logistic Regression** |  Better than LPM - uses sigmoid function to keep probabilities between 0-1 | Linear/Parametric (Binary) |
+| **Generalized Linear Model (Binomial)** | A specific family of GLM (this is the same as LOGIT) | Linear/Parametric (Binary) |
+| **K-Nearest Neighbors** | Find the closest to predictor then vote | Instance-Based/Non-Parametric |
+| **Decision Trees** | Like a flowchart for decisions | Tree-Based/Non-Parametric |
+| **Bagging** | Bootstrap Aggregating - many models > one model | Ensemble (Tree-Based) |
+| **Random Forest** | A forest of decision trees 🌲🌲🌲 | Ensemble (Tree-Based) |
 
 ---
 
-# Folder Structure
+## 📚 What's Inside
+
+Curious about what I'm studying next? Check out my [**learning schedule**](./Schedule) to see what topics I'm exploring!
+
+---
+
+Happy Learning! 🚀
+
+---
+
+*P.S. This is a living document - I'm constantly adding new things as I learn them. Check back every Tuesdays and Fridays!* ✨
