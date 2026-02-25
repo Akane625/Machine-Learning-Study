@@ -19,7 +19,7 @@ Here are the ML models I've learned about so far.
 | **K-Nearest Neighbors** | Find the closest to predictor then vote | Instance-Based/Non-Parametric |
 | **Decision Trees** | Like a flowchart for decisions | Tree-Based/Non-Parametric |
 | **Bagging** | Bootstrap Aggregating - many models > one model | Ensemble (Tree-Based) |
-| **Random Forest** | A forest of decision trees 🌲🌲🌲 | Ensemble (Tree-Based) |
+| **Random Forest** | A forest of decision trees | Ensemble (Tree-Based) |
 
 ---
 
