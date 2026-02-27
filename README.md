@@ -29,8 +29,10 @@ Curious about what I'm studying next? Check out my schedule to see what topics I
 
 | 📆 Date | 📚 Lesson | 
 |:-------:|-----------|
-| **Feb 27, 2026** | **Understanding Performance & Classification Metrics**<br>• Definition and Uses of the main Performance & Classification Metrics<br>• Why F1 higher is better (most sources)<br>• Why F1 lower is better (special cases)<br>• Include mathematical derivations for some |
-| **Mar 3, 2026** | **Model Comparison**<br>• Random Forest (with Grid Search) vs Bagging vs Decision Trees<br>• Use cross-validation |
+| **Feb 27, 2026** | **Understanding Classification Metrics**<br>• Define each metric Accuracy, Precision, Recall, F1, ROC-AUC<br>• Explore their mathematical approaches |
+| **Mar 3, 2026** | **Understanding F1 Score**<br>• Why F1 higher is better (most sources)<br>• Why F1 lower is better (professor's cases) |
+| **Mar 6, 2026** | **Understanding Performance Metrics**<br>• Define each metric R^2, Log-Likelihood, AIC, BIC<br>• Explore their mathematical approaches |
+| **Mar 10, 2026** | **Model Comparison**<br>• Random Forest (with Grid Search) vs Bagging vs Decision Trees<br>• Use cross-validation |
 
 
 ---
