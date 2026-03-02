@@ -38,11 +38,6 @@ Curious about what I'm studying next? Check out my schedule to see what topics I
 | **Mar 6, 2026** | **Model Analysis (Bagging, RF, AdaB, GradB, XGB)**<br>• Explore the math, logic, interpretations, and code of the following models: <br>• Bagging<br>• Random Forest<br>• AdaBoost<br>• Gradient Boost<br>• XGBoost |
 | **Mar 9, 2026** | **Model Comparison**<br>• Random Forest (with Grid Search) vs Bagging vs Decision Trees<br>• Use cross-validation |
 
-
----
-
 Happy Learning! 🚀
-
----
 
 *P.S. This is a living document - I'm constantly adding new things as I learn them. Check back every Mondays, Wednesdays, and Fridays!* ✨
