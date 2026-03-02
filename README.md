@@ -20,6 +20,9 @@ Here are the ML models I've learned about so far.
 | **Decision Trees** | Like a flowchart for decisions | Tree-Based/Non-Parametric |
 | **Bagging** | Bootstrap Aggregating - many models > one model | Ensemble (Tree-Based) |
 | **Random Forest** | A forest of decision trees | Ensemble (Tree-Based) |
+| **AdaBoost** | ... | ... |
+| **Gradient Boost** | ... | ... |
+| **XGBoost** | ... | ... |
 
 ---
 
