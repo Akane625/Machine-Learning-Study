@@ -30,9 +30,10 @@ Curious about what I'm studying next? Check out my schedule to see what topics I
 | 📆 Date | 📚 Lesson | 
 |:-------:|-----------|
 | **Feb 27, 2026** | **Understanding Classification Metrics**<br>• Define each metric Accuracy, Precision, Recall, F1, ROC-AUC<br>• Explore their mathematical approaches |
-| **Mar 3, 2026** | **Understanding F1 Score**<br>• Why F1 higher is better (most sources)<br>• Why F1 lower is better (professor's cases) |
-| **Mar 6, 2026** | **Understanding Performance Metrics**<br>• Define each metric R^2, Log-Likelihood, AIC, BIC<br>• Explore their mathematical approaches |
-| **Mar 10, 2026** | **Model Comparison**<br>• Random Forest (with Grid Search) vs Bagging vs Decision Trees<br>• Use cross-validation |
+| **Mar 2, 2026** | **F1 Dilema and Quick Review of Performance Metrics**<br>• What cases does higher or lower F1 is better<br>• Quickly review $R^2$, Log-Likelihood, AIC, BIC |
+| **Mar 4, 2026** | **Model Analysis (LPM, LOGIT, KNN, DT)**<br>• Explore the math, logic, interpretations, and code of the following models: <br>• Linear Probability Model<br>• Logistics Regression<br>• K-Nearest Neighbours<br>• Decision Tree |
+| **Mar 6, 2026** | **Model Analysis (Bagging, RF, AdaB, GradB, XGB)**<br>• Explore the math, logic, interpretations, and code of the following models: <br>• Bagging<br>• Random Forest<br>• AdaBoost<br>• Gradient Boost<br>• XGBoost |
+| **Mar 9, 2026** | **Model Comparison**<br>• Random Forest (with Grid Search) vs Bagging vs Decision Trees<br>• Use cross-validation |
 
 
 ---
@@ -41,4 +42,4 @@ Happy Learning! 🚀
 
 ---
 
-*P.S. This is a living document - I'm constantly adding new things as I learn them. Check back every Tuesdays and Fridays!* ✨
+*P.S. This is a living document - I'm constantly adding new things as I learn them. Check back every Mondays, Wednesdays, and Fridays!* ✨
