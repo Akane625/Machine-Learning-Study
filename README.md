@@ -39,6 +39,7 @@ Curious about what I'm studying next? Check out my schedule to see what topics I
 | **Mar 11, 2026** | **Model Comparison**<br>• Random Forest (with Grid Search) vs Bagging vs Decision Trees<br>• Use cross-validation |
 | **?** | **?**<br>• Difference of DT, Bagging, RF Importance and their use cases  |
 | **?** | **?**<br>• What happens if you add more neighbors in knn, how much depth for dt, bagging, rf?  |
+| **?** | **?**<br>• why is decision tree importance better than random forest importance on boosting methods (adaboost, gradient boost, XGBoost)  |
 
 Happy Learning! 🚀
 
