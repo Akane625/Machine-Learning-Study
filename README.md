@@ -22,7 +22,7 @@ Here are the ML models I've learned about so far.
 | **Random Forest** | Bagging + KNN  + random feature selection to build many diverse decision trees; final output based on majority wins | Ensemble (Tree-Based) |
 | **AdaBoost** | Sequential boosting that focuses more on previously misclassified observations; uses sample weight | Ensemble (Boosting) |
 | **Gradient Boosting** | Sequentially builds trees that correct the residual errors of previous models | Ensemble (Boosting) |
-| **XGBoost** | Optimized gradient boosting with regularization and faster training | Ensemble (Boosting) |
+| **XGBoost** | (Did Not Finish) | (Did Not Finish) |
 | **Ridge Regression** | L2 regularization that shrinks coefficients to reduce overfitting | Regularization |
 | **Lasso Regression** | L1 regularization that shrink non-important coefficients to zero (feature selection) | Regularization |
 | **Elastic Net** | Combines L1 (Lasso) and L2 (Ridge) penalties | Regularization |
