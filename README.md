@@ -42,6 +42,7 @@ Curious about what I'm studying next? Check out my schedule to see what topics I
 | **?** | **?**<br>• Difference of DT, Bagging, RF Importance and their use cases  |
 | **?** | **?**<br>• What happens if you add more neighbors in knn, how much depth for dt, bagging, rf?  |
 | **?** | **?**<br>• why is decision tree importance better than random forest importance on boosting methods (adaboost, gradient boost, XGBoost)  |
+| **?** | **?**<br>• Create complete models of each i've learned so like pushed to its best performance (use US Census Dataset)  |
 
 Happy Learning! 🚀
 
