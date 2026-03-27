@@ -39,6 +39,8 @@ Curious about what I'm studying next? Check out my schedule to see what topics I
 | **Mar 3, 2026** | **F1 Dilema and Quick Review of Performance Metrics**<br>• What cases does higher or lower F1 is better<br>• Quickly review $R^2$, Log-Likelihood, AIC, BIC |
 | **Mar 4, 2026** | **Model Analysis (LPM, LOGIT, KNN, DT)**<br>• Explore the math, logic, interpretations, and code of the following models: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Linear Probability Model<br>&nbsp;&nbsp;&nbsp;&nbsp;• Logistics Regression<br>&nbsp;&nbsp;&nbsp;&nbsp;• K-Nearest Neighbours<br>&nbsp;&nbsp;&nbsp;&nbsp;• Decision Tree |
 | **Mar 9, 2026** | **Model Analysis (Bagging, RF, AdaB, GradB, XGB)**<br>• Explore the math, logic, interpretations, and code of the following models: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Bagging<br>&nbsp;&nbsp;&nbsp;&nbsp;• Random Forest<br>&nbsp;&nbsp;&nbsp;&nbsp;• AdaBoost<br>&nbsp;&nbsp;&nbsp;&nbsp;• Gradient Boost<br>&nbsp;&nbsp;&nbsp;&nbsp;• XGBoost |
+| **March 30, 2026** | **Full Powered Models**<br>• Create a fully powered LPM model (transformation)<br>• Compare it to a Gradient Boost with cross-validation and grid search |
+| **April 1, 2026** | **XGBoost**<br>• Explore and study XGBoost |
 | **?** | **?**<br>• Difference of DT, Bagging, RF Importance and their use cases  |
 | **?** | **?**<br>• What happens if you add more neighbors in knn, how much depth for dt, bagging, rf?  |
 | **?** | **?**<br>• why is decision tree importance better than random forest importance on boosting methods (adaboost, gradient boost, XGBoost)  |
