@@ -1,6 +1,6 @@
 # 👋 Welcome to My ML/AI Learning Repository
 
-Hi there! 🌟 This repository is my personal **learning playground** where I document additional insights about Machine Learning and AI. Think of it as my digital notebook 📓 where I experiment with curious topics, dig deeper into interesting concepts, and try to answer the "why" behind everything.
+Hi! This repository is my personal **learning repository** where I document new and additional insights about Machine Learning and AI. I experiment with curious topics, dig deeper into interesting concepts, and try to answer the "why" behind everything.
 
 > 💡 **Why this exists:** I want to learn more and understand the levels of ML/AI whilst answering my curious questions about some things related to them
 
@@ -39,14 +39,16 @@ Curious about what I'm studying next? Check out my schedule to see what topics I
 | **Mar 3, 2026** | **F1 Dilema and Quick Review of Performance Metrics**<br>• What cases does higher or lower F1 is better<br>• Quickly review $R^2$, Log-Likelihood, AIC, BIC |
 | **Mar 4, 2026** | **Model Analysis (LPM, LOGIT, KNN, DT)**<br>• Explore the math, logic, interpretations, and code of the following models: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Linear Probability Model<br>&nbsp;&nbsp;&nbsp;&nbsp;• Logistics Regression<br>&nbsp;&nbsp;&nbsp;&nbsp;• K-Nearest Neighbours<br>&nbsp;&nbsp;&nbsp;&nbsp;• Decision Tree |
 | **Mar 9, 2026** | **Model Analysis (Bagging, RF, AdaB, GradB, XGB)**<br>• Explore the math, logic, interpretations, and code of the following models: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Bagging<br>&nbsp;&nbsp;&nbsp;&nbsp;• Random Forest<br>&nbsp;&nbsp;&nbsp;&nbsp;• AdaBoost<br>&nbsp;&nbsp;&nbsp;&nbsp;• Gradient Boost<br>&nbsp;&nbsp;&nbsp;&nbsp;• XGBoost |
-| **March 30, 2026** | **Full Power Gradient Boost**<br>• Create a fully powered Gradient Boost with the following hyperparameter tuning: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Cross-Validation<br>&nbsp;&nbsp;&nbsp;&nbsp;• Grid Search|
-| **April 3, 2026** | **Feature Transformation on Linear Probability Model**<br>• Create a Linear Probability Model the following feature transformations: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Log<br>&nbsp;&nbsp;&nbsp;&nbsp;• Polynomial |
-| **April 6, 2026** | **XGBoost**<br>• Explore and study XGBoost |
-| **?** | **?**<br>• Difference of DT, Bagging, RF Importance and their use cases  |
+| **Mar 30, 2026** | **Full Power Gradient Boost**<br>• Create a fully powered Gradient Boost with the following hyperparameter tuning: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Cross-Validation<br>&nbsp;&nbsp;&nbsp;&nbsp;• Grid Search|
+| **Apr 3, 2026** | **Feature Transformation on Linear Probability Model**<br>• Create a Linear Probability Model the following feature transformations: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Log<br>&nbsp;&nbsp;&nbsp;&nbsp;• Polynomial |
+| **Apr 6, 2026** | **XGBoost**<br>• Explore and study XGBoost |
+| **Apr 9, 2026** | **Notebook Reworks**<br>• Rework the following notebooks: ... |
+| **Apr 10, 2026** | **Feature Selection Selection**<br>• Difference of DT, Bagging, RF Importance and their use cases  |
 | **?** | **?**<br>• What happens if you add more neighbors in knn, how much depth for dt, bagging, rf?  |
-| **?** | **?**<br>• why is decision tree importance better than random forest importance on boosting methods (adaboost, gradient boost, XGBoost)  |
+| **?** | **?**<br>• why is decision tree importance better than random forest importance on boosting methods (Adaboost, Gradient Boost, XGBoost)  |
 | **?** | **?**<br>• Create complete models of each i've learned so like pushed to its best performance (use US Census Dataset)  |
 
-Happy Learning! 🚀
+*Note to Self:* Make sure to backup what you say in the notebooks with graphs or numbers.
+
 
 *P.S. This is a living document - I'm constantly adding new things as I learn them. Check back every Mondays, Wednesdays, and Fridays!* ✨
