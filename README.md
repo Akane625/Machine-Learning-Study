@@ -48,7 +48,7 @@ Curious about what I'm studying next? Check out my schedule to see what topics I
 | **?** | **?**<br>• why is decision tree importance better than random forest importance on boosting methods (Adaboost, Gradient Boost, XGBoost)  |
 | **?** | **?**<br>• Create complete models of each i've learned so like pushed to its best performance (use US Census Dataset)  |
 
-*Note to Self:* Make sure to backup what you say in the notebooks with graphs or numbers.
+**Note to Self:** <u>Make sure to backup what you say in the notebooks with graphs or numbers.</u>
 
 
 *P.S. This is a living document - I'm constantly adding new things as I learn them. Check back every Mondays, Wednesdays, and Fridays!* ✨
