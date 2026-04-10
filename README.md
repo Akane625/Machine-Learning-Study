@@ -41,14 +41,11 @@ Curious about what I'm studying next? Check out my schedule to see what topics I
 | **Mar 9, 2026** | **Model Analysis (Bagging, RF, AdaB, GradB, XGB)**<br>• Explore the math, logic, interpretations, and code of the following models: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Bagging<br>&nbsp;&nbsp;&nbsp;&nbsp;• Random Forest<br>&nbsp;&nbsp;&nbsp;&nbsp;• AdaBoost<br>&nbsp;&nbsp;&nbsp;&nbsp;• Gradient Boost<br>&nbsp;&nbsp;&nbsp;&nbsp;• XGBoost |
 | **Mar 30, 2026** | **Full Power Gradient Boost**<br>• Create a fully powered Gradient Boost with the following hyperparameter tuning: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Cross-Validation<br>&nbsp;&nbsp;&nbsp;&nbsp;• Grid Search|
 | **Apr 3, 2026** | **Feature Transformation on Linear Probability Model**<br>• Create a Linear Probability Model the following feature transformations: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Log<br>&nbsp;&nbsp;&nbsp;&nbsp;• Polynomial |
-| **Apr 6, 2026** | **XGBoost**<br>• Explore and study XGBoost |
-| **Apr 9, 2026** | **Notebook Reworks**<br>• Rework the following notebooks: ... |
-| **Apr 10, 2026** | **Feature Selection Selection**<br>• Difference of DT, Bagging, RF Importance and their use cases  |
-| **?** | **?**<br>• What happens if you add more neighbors in knn, how much depth for dt, bagging, rf?  |
-| **?** | **?**<br>• why is decision tree importance better than random forest importance on boosting methods (Adaboost, Gradient Boost, XGBoost)  |
-| **?** | **?**<br>• Create complete models of each i've learned so like pushed to its best performance (use US Census Dataset)  |
+| **Apr 10, 2026** | **Notebook Reworks**<br>• Rework the following notebooks: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Feature Transformation on Linear Probability Model |
+| **Apr 13, 2026** | **Notebook Reworks**<br>• Rework the following notebooks: ... |
+| **Apr 15, 2026** | **Feature Selection Selection**<br>• What are the use cases of the following feature selection modes: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Decision Tree<br>&nbsp;&nbsp;&nbsp;&nbsp;• Bagging<br>&nbsp;&nbsp;&nbsp;&nbsp;• Random Forest |
+| **Apr 17, 2026** | **XGBoost**<br>• Explore and study XGBoost |
 
 **Note to Self:** <u>Make sure to backup what you say in the notebooks with graphs or numbers.</u>
-
 
 *P.S. This is a living document - I'm constantly adding new things as I learn them. Check back every Mondays, Wednesdays, and Fridays!* ✨
