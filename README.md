@@ -33,16 +33,16 @@ Here are the ML models I've learned about so far.
 
 Curious about what I'm studying next? Check out my schedule to see what topics I'm exploring!
 
-| 📆 Date | 📚 Lesson | 
-|:-------:|-----------|
-| **Feb 27, 2026** | **Understanding Classification Metrics**<br>• Define each metric Accuracy, Precision, Recall, F1, ROC-AUC<br>• Explore their mathematical approaches |
-| **Mar 3, 2026** | **F1 Dilema and Quick Review of Performance Metrics**<br>• What cases does higher or lower F1 is better<br>• Quickly review $R^2$, Log-Likelihood, AIC, BIC |
-| **Mar 4, 2026** | **Model Analysis (LPM, LOGIT, KNN, DT)**<br>• Explore the math, logic, interpretations, and code of the following models: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Linear Probability Model<br>&nbsp;&nbsp;&nbsp;&nbsp;• Logistics Regression<br>&nbsp;&nbsp;&nbsp;&nbsp;• K-Nearest Neighbours<br>&nbsp;&nbsp;&nbsp;&nbsp;• Decision Tree |
-| **Mar 9, 2026** | **Model Analysis (Bagging, RF, AdaB, GradB, XGB)**<br>• Explore the math, logic, interpretations, and code of the following models: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Bagging<br>&nbsp;&nbsp;&nbsp;&nbsp;• Random Forest<br>&nbsp;&nbsp;&nbsp;&nbsp;• AdaBoost<br>&nbsp;&nbsp;&nbsp;&nbsp;• Gradient Boost<br>&nbsp;&nbsp;&nbsp;&nbsp;• XGBoost |
-| **Mar 30, 2026** | **Full Power Gradient Boost**<br>• Create a fully powered Gradient Boost with the following hyperparameter tuning: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Cross-Validation<br>&nbsp;&nbsp;&nbsp;&nbsp;• Grid Search|
-| **Apr 3, 2026** | **Feature Transformation on Linear Probability Model**<br>• Create a Linear Probability Model the following feature transformations: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Log<br>&nbsp;&nbsp;&nbsp;&nbsp;• Polynomial |
-| **Apr 16, 2026** | **Notebook Reworks**<br>• Rework the following notebooks: ... |
-| **Apr 17, 2026** | **Feature Selection Selection**<br>• What are the use cases of the following feature selection modes: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Decision Tree<br>&nbsp;&nbsp;&nbsp;&nbsp;• Bagging<br>&nbsp;&nbsp;&nbsp;&nbsp;• Random Forest |
-| **Apr 24, 2026** | **XGBoost**<br>• Explore and study XGBoost |
+| 📆 Date (MM/DD/YY) | 📚 Lesson | 
+|:------------------:|-----------|
+| **02/27/26** | **Understanding Classification Metrics**<br>• Define each metric Accuracy, Precision, Recall, F1, ROC-AUC<br>• Explore their mathematical approaches |
+| **03/03/26** | **F1 Dilema and Quick Review of Performance Metrics**<br>• What cases does higher or lower F1 is better<br>• Quickly review $R^2$, Log-Likelihood, AIC, BIC |
+| **03/04/26** | **Model Analysis (LPM, LOGIT, KNN, DT)**<br>• Explore the math, logic, interpretations, and code of the following models: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Linear Probability Model<br>&nbsp;&nbsp;&nbsp;&nbsp;• Logistics Regression<br>&nbsp;&nbsp;&nbsp;&nbsp;• K-Nearest Neighbours<br>&nbsp;&nbsp;&nbsp;&nbsp;• Decision Tree |
+| **03/09/26** | **Model Analysis (Bagging, RF, AdaB, GradB, XGB)**<br>• Explore the math, logic, interpretations, and code of the following models: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Bagging<br>&nbsp;&nbsp;&nbsp;&nbsp;• Random Forest<br>&nbsp;&nbsp;&nbsp;&nbsp;• AdaBoost<br>&nbsp;&nbsp;&nbsp;&nbsp;• Gradient Boost<br>&nbsp;&nbsp;&nbsp;&nbsp;• XGBoost |
+| **03/30/26** | **Full Power Gradient Boost**<br>• Create a fully powered Gradient Boost with the following hyperparameter tuning: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Cross-Validation<br>&nbsp;&nbsp;&nbsp;&nbsp;• Grid Search|
+| **04/03/26** | **Feature Transformation on Linear Probability Model**<br>• Create a Linear Probability Model the following feature transformations: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Log<br>&nbsp;&nbsp;&nbsp;&nbsp;• Polynomial |
+| **04/14/26** | **Notebook Reworks**<br>• Rework the following notebooks: ... |
+| **04/17/26** | **Feature Selection Selection**<br>• What are the use cases of the following feature selection modes: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Decision Tree<br>&nbsp;&nbsp;&nbsp;&nbsp;• Bagging<br>&nbsp;&nbsp;&nbsp;&nbsp;• Random Forest |
+| **04/24/26** | **XGBoost**<br>• Explore and study XGBoost |
 
 **Note to Self:** Make sure to backup what you say in the notebooks with graphs or numbers.
