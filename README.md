@@ -45,5 +45,6 @@ Curious about what I'm studying next? Check out my schedule to see what topics I
 | **04/24/26** | **Feature Selection Selection**<br>• What are the use cases of the following feature selection modes: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Decision Tree<br>&nbsp;&nbsp;&nbsp;&nbsp;• Bagging<br>&nbsp;&nbsp;&nbsp;&nbsp;• Random Forest |
 | **05/1/26** | **XGBoost**<br>• Explore and study XGBoost |
 | **?** | **Notebook Reworks**<br>• Rework the following notebooks: <br>&nbsp;&nbsp;&nbsp;&nbsp;• ... |
+| **?** | **Unsupervised Learning**<br>• Work on the following models: <br>&nbsp;&nbsp;&nbsp;&nbsp;• K-Means Clustering <br>&nbsp;&nbsp;&nbsp;&nbsp;• DBSCAN |\
 
 **Note to Self:** Make sure to backup what you say in the notebooks with graphs or numbers.
