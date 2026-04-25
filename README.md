@@ -42,9 +42,9 @@ Curious about what I'm studying next? Check out my schedule to see what topics I
 | **03/30/26** | **Full Power Gradient Boost**<br>• Create a fully powered Gradient Boost with the following hyperparameter tuning: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Cross-Validation<br>&nbsp;&nbsp;&nbsp;&nbsp;• Grid Search|
 | **04/03/26** | **Feature Transformation on Linear Probability Model**<br>• Create a Linear Probability Model the following feature transformations: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Log<br>&nbsp;&nbsp;&nbsp;&nbsp;• Polynomial |
 | **04/17/26** | **Notebook Reworks**<br>• Rework the following notebooks: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Feature Transformation on Linear Probability Model |
-| **04/25/26** | **Feature Selection Selection**<br>• What are the use cases of the following feature selection modes: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Decision Tree<br>&nbsp;&nbsp;&nbsp;&nbsp;• Bagging<br>&nbsp;&nbsp;&nbsp;&nbsp;• Random Forest |
-| **04/29/26** | **XGBoost**<br>• Explore and study XGBoost |
-| **04/30/26** | **Notebook Reworks**<br>• Rework the following notebooks: <br>&nbsp;&nbsp;&nbsp;&nbsp;• ... |
-| **05/01/26** | **Unsupervised Learning**<br>• Work on the following models: <br>&nbsp;&nbsp;&nbsp;&nbsp;• K-Means Clustering <br>&nbsp;&nbsp;&nbsp;&nbsp;• DBSCAN |\
+| **04/29/26** | **Feature Selection Selection**<br>• What are the use cases of the following feature selection modes: <br>&nbsp;&nbsp;&nbsp;&nbsp;• Decision Tree<br>&nbsp;&nbsp;&nbsp;&nbsp;• Bagging<br>&nbsp;&nbsp;&nbsp;&nbsp;• Random Forest |
+| **04/30/26** | **XGBoost**<br>• Explore and study XGBoost |
+| **05/01/26** | **Notebook Reworks**<br>• Rework the following notebooks: <br>&nbsp;&nbsp;&nbsp;&nbsp;• ... |
+| **05/08/26** | **Unsupervised Learning**<br>• Work on the following models: <br>&nbsp;&nbsp;&nbsp;&nbsp;• K-Means Clustering <br>&nbsp;&nbsp;&nbsp;&nbsp;• DBSCAN |\
 
 **Note to Self:** Make sure to backup what you say in the notebooks with graphs or numbers.
