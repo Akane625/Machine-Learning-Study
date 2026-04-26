@@ -1,37 +1,46 @@
-# 👋 Welcome to My ML/AI Learning Repository
+# My ML/AI Learning Repository
 
-Hi! This repository is my personal **learning repository** where I document new and additional insights about Machine Learning and AI. I experiment with curious topics, dig deeper into interesting concepts, and try to answer the "why" behind everything.
+Hi, this repository is my **learning repository** where I document new and additional insights about Machine Learning and AI. I experiment with topics, dig deeper into interesting concepts, and try to answer the "why" behind everything.
 
-> 💡 **Why this exists:** I want to learn more and understand the levels of ML/AI whilst answering my curious questions about some things related to them
+> **Why this exists:** I want to learn more and understand ML/AI further
 
 ---
 
-## 🧠 Models I've Explored So Far
+## Supervised Machine Learning Models
 
-Here are the ML models I've learned about so far.
+> Models I've learned about.
 
-| 🤖 Model | 📝 Notes | ⌨️ Type |
-|----------|----------|------------------|
-| **Linear Regression (OLS)** | Predicts continuous values using ordinary least squares | Linear / Parametric |
-| **Linear Probability Model (LPM)** | Simple linear model for binary outcomes but can predict probabilities outside 0–1 | Linear / Parametric (Binary) |
-| **Logistic Regression** | Uses the sigmoid function to keep predicted probabilities between 0 and 1 | Linear / Parametric (Binary) |
-| **Generalized Linear Model (Binomial)** | A GLM with binomial distribution and logit link; equivalent to logistic regression | Linear / Parametric (Binary) |
-| **K-Nearest Neighbors (KNN)** | Classifies using the majority label among the k closest observations; final output based on majority wins | Instance-Based / Non-Parametric |
-| **Decision Trees** | Splits data into branches based on feature values like a flowchart | Tree-Based / Non-Parametric |
-| **Bagging** | Bootstrap Aggregating: trains many models on bootstrapped samples and averages results | Ensemble (Variance Reduction) |
-| **Random Forest** | Bagging + KNN  + random feature selection to build many diverse decision trees; final output based on majority wins | Ensemble (Tree-Based) |
-| **AdaBoost** | Sequential boosting that focuses more on previously misclassified observations; uses sample weight | Ensemble (Boosting) |
-| **Gradient Boosting** | Sequentially builds trees that correct the residual errors of previous models | Ensemble (Boosting) |
-| **XGBoost** | (Did Not Finish) | (Did Not Finish) |
+| Model | Notes | Type |
+|-------|-------|------|
+| **Linear Regression (OLS)** | find best fit line using ordinary least squares | Linear / Parametric |
+| **Linear Probability Model (LPM)** | predict binary outcome | Linear / Parametric (Binary) |
+| **Logistic Regression** | It predicts probabilities between 0 and 1 | Linear / Parametric (Binary) |
+| **Generalized Linear Model** | different types of models in one big framework (linear predictor + link function + distribution) | Linear / Parametric |
+| **K-Nearest Neighbors (KNN)** | finds K neighbours and bases off majority wins (classification) or average (regression) | Instance-Based / Non-Parametric |
+| **Decision Trees** | splits data into branches like a flowchart | Tree-Based / Non-Parametric |
+| **Bagging** | trains many models on bootstrapped samples and majority wins (classification) or average (regression) | Ensemble (Variance Reduction) / Parallel Learning |
+| **Random Forest** | bagging but randomizes features per split, final output based on majority wins (classification) or average (regression) | Ensemble (Tree-Based) / Parallel Learning |
+| **AdaBoost** | Improves on the misclassifications of previous models, learns from weak learners | Ensemble (Boosting) / Sequential Learning |
+| **Gradient Boosting** | improves on the residual errors of previous models | Ensemble (Boosting) / Sequential Learning |
+| **XGBoost** | ... | ... |
 | **Ridge Regression** | L2 regularization that shrinks coefficients to reduce overfitting | Regularization |
 | **Lasso Regression** | L1 regularization that shrink non-important coefficients to zero (feature selection) | Regularization |
 | **Elastic Net** | Combines L1 (Lasso) and L2 (Ridge) penalties | Regularization |
 
 ---
 
-## 📅 Learning Schedule
+## Unsupervised Machine Learning Models
 
-Curious about what I'm studying next? Check out my schedule to see what topics I'm exploring!
+> Models I've learned about.
+
+| Model | Notes | Type |
+|-------|-------|------|
+| **K-Means Clustering** | Minimizes within-cluster sum of squares using centroids (mean) | Clustering |
+| **DBSCAN** | Clustering based on density | Clustering |
+
+---
+
+## Schedule
 
 | 📆 Date (MM/DD/YY) | 📚 Lesson | 
 |:------------------:|-----------|
@@ -47,4 +56,4 @@ Curious about what I'm studying next? Check out my schedule to see what topics I
 | **05/01/26** | **Notebook Reworks**<br>• Rework the following notebooks: <br>&nbsp;&nbsp;&nbsp;&nbsp;• ... |
 | **05/08/26** | **Unsupervised Learning**<br>• Work on the following models: <br>&nbsp;&nbsp;&nbsp;&nbsp;• K-Means Clustering <br>&nbsp;&nbsp;&nbsp;&nbsp;• DBSCAN |\
 
-**Note to Self:** Make sure to backup what you say in the notebooks with graphs or numbers.
+**Note to Self:** Make sure to backup what you say in the notebooks with graphs and numbers.
