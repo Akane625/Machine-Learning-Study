@@ -51,8 +51,9 @@ Hi, this repository is my **learning repository** where I document new and addit
 | **03/30/26** | **Full Gradient Boosting** | • Cross-validation + Grid search tuning |
 | **04/03/26** | **Feature Transformation (LPM)** | • Log transformation, Polynomial features |
 | **04/17/26** | **Notebook Rework I** | • Feature Transformation (LPM) |
-| **04/27/26 - 05/01/26** | **XGBoost Deep Dive** | • Theory + implementation |
+| **05/11/26 - 05/17/26** | **XGBoost Deep Dive** | • Theory + implementation |
 | **?** | **Unsupervised Learning (Clustering)** | • K-Means, DBSCAN |
+| **?** | **Unsupervised Learning (Dimensionality Reduction)** | • PCA, t-SNE, UMAP |
 
 ---
 
