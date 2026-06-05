@@ -1,8 +1,6 @@
-# My ML/AI Learning Repository
+# My Machine Learning Repository
 
-Hi, this repository is my **learning repository** where I document new and additional insights about Machine Learning and AI. I experiment with topics, dig deeper into interesting concepts, and try to answer the "why" behind everything.
-
-> **Why this exists:** I want to learn more and understand ML/AI further
+In this repository, I do some stuff with machine learing (ML) models. Earlier, this used to be a practice notebook. Now, its used to experiment on topics for a CAPSTONE project.
 
 ---
 
@@ -40,6 +38,20 @@ Hi, this repository is my **learning repository** where I document new and addit
 
 ---
 
+## Methods/Techniques
+
+> Techniques I've learned about.
+
+| Technique | Notes |
+|-------|-------|
+| **Dimensionality Reduction** | PCA, t-SNE, UMAP |
+| **Market Basket Analysis** | Item frequency or simply recommendation algorithms |
+| **Natural Language Processing** | Words into machine interpretable numbers (mainly learned sentiment analysis) |
+| **Text Clustering & Topic Modeling** | Use NLP with ML models like K-Means |
+| **Imbalance Identification** | Find and use methods to remedy imbalance sets such as the simple balance, SMOTE, RUS |
+
+---
+
 ## Schedule
 
 | Date (MM/DD/YY) | Title | Details |
@@ -51,13 +63,11 @@ Hi, this repository is my **learning repository** where I document new and addit
 | **03/30/26** | **Full Gradient Boosting** | • Cross-validation + Grid search tuning |
 | **04/03/26** | **Feature Transformation (LPM)** | • Log transformation, Polynomial features |
 | **04/17/26** | **Notebook Rework I** | • Feature Transformation (LPM) |
-| **05/11/26 - 05/17/26** | **XGBoost Deep Dive** | • Theory + implementation |
-| **?** | **Unsupervised Learning (Clustering)** | • K-Means, DBSCAN |
-| **?** | **Unsupervised Learning (Dimensionality Reduction)** | • PCA, t-SNE, UMAP |
+| **?** | **NLP Summarizer** | • Use NLP to summarize texts |
 
 ---
 
-## Notes
+## Self Notes
 - **Self:** make sure to backup the things I write in the notebooks with graphs and numbers
 - **Starting 04/26/2026:** make one big notebook with a one week deadline, instead of small ones in a day
 - **About Notebook Reworks:** if a notebook gets reworked, make sure to place the updates on the last cell
